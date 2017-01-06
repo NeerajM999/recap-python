@@ -8,7 +8,9 @@ from sys import argv
 
 ## how to use escape characters
 > print 'This escapes single quote in <You\'d>'
+
 > print 'This lets you add a forward slash \\'
+
 > print 'This adds a newline \n in the sentence'
 > print 'This adds a tab \t between \t words.'
 
