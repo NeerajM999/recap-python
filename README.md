@@ -2,7 +2,7 @@
 <p>This repository will hold commands to recap python basics. You can run the python script as shown below:</p>
 
 > python recap.py test
-<code>
+
 ## Output will be as follows:
 This escapes single quote in <You'd>
 This lets you add a forward slash \
@@ -59,4 +59,4 @@ mixed has 'b'
 mixed has 0
 mixed has 'c'
 mixed has 4.5
-</code>
+
